@@ -13,11 +13,17 @@
 </p>
 
 nc -lvnp 9001
+
 Listening on [any] 9001...
+
 Connecting to [PashaMasr] profile
+
 $ script /dev/null -c bash
+
 PashaMasr@profile:~$ ./exploit
+
 💀 PWN3D! 💀
+
 ACCESS GRANTED ✅
 
 ---
