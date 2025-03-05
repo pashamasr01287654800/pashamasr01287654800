@@ -41,11 +41,34 @@ ACCESS GRANTED ✅
 ## 🛠 Tech & Tools:
 <p align="center">
   <img src="https://img.shields.io/badge/Kali-Linux-1C1C1C?style=for-the-badge&logo=kali-linux">
+  <img src="https://img.shields.io/badge/Linux-Kernel-FCC624?style=for-the-badge&logo=linux">
+  <img src="https://img.shields.io/badge/Termux-CLI-222222?style=for-the-badge&logo=termux">
   <img src="https://img.shields.io/badge/Bash-Scripting-FCC624?style=for-the-badge&logo=gnu-bash">
   <img src="https://img.shields.io/badge/Python-Scripting-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/Linux-Kernel-FCC624?style=for-the-badge&logo=linux">
+
+  <img src="https://img.shields.io/badge/Nmap-NetworkScanner-1E90FF?style=for-the-badge&logo=nmap">
+  <img src="https://img.shields.io/badge/Bettercap-NetworkAttack-cyan?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Tor-Anonymous-purple?style=for-the-badge&logo=torproject">
+  <img src="https://img.shields.io/badge/Proxchains-ProxyRouting-yellow?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/Metasploit-ExploitationFramework-blue?style=for-the-badge&logo=metasploit">
+  <img src="https://img.shields.io/badge/PowerSploit-PowerShellExploits-darkblue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SEToolkit-SocialEngineering-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ExploitDB-ExploitsDatabase-darkred?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/Hydra-PasswordCracking-red?style=for-the-badge&logo=apache">
+  <img src="https://img.shields.io/badge/JohnTheRipper-PasswordCracking-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Mimikatz-CredentialDumping-darkred?style=for-the-badge">
   <img src="https://img.shields.io/badge/Pentesting-RedTeam-critical?style=for-the-badge&logo=hackthebox">
-  <img src="https://img.shields.io/badge/Termux-CLI-222222?style=for-the-badge&logo=termux">
+
+  <img src="https://img.shields.io/badge/BurpSuite-WebSecurity-orange?style=for-the-badge&logo=burpsuite">
+  <img src="https://img.shields.io/badge/OWASP_ZAP-WebSecurity-blue?style=for-the-badge&logo=owasp">
+  <img src="https://img.shields.io/badge/bWAPP-VulnerableApp-blueviolet?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/GTFOBins-Privesc-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Linpeas-PrivilegeEscalation-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LOLBAS-LOLBins-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/TTY-ShellControl-222222?style=for-the-badge">
 </p>
 
 ---
