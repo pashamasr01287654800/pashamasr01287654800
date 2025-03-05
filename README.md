@@ -69,6 +69,8 @@ ACCESS GRANTED ✅
   <img src="https://img.shields.io/badge/Linpeas-PrivilegeEscalation-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/LOLBAS-LOLBins-yellow?style=for-the-badge">
   <img src="https://img.shields.io/badge/TTY-ShellControl-222222?style=for-the-badge">
+
+  <img src="https://img.shields.io/badge/Foremost-FileRecovery-darkgreen?style=for-the-badge">
 </p>
 
 ---
