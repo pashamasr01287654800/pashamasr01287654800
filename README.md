@@ -45,6 +45,7 @@ ACCESS GRANTED ✅
   <img src="https://img.shields.io/badge/Python-Scripting-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Linux-Kernel-FCC624?style=for-the-badge&logo=linux">
   <img src="https://img.shields.io/badge/Pentesting-RedTeam-critical?style=for-the-badge&logo=hackthebox">
+  <img src="https://img.shields.io/badge/Termux-CLI-222222?style=for-the-badge&logo=termux">
 </p>
 
 ---
