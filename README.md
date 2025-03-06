@@ -1,5 +1,5 @@
 <h1 align="center">
-  🚀 Welcome to My Cyber Arsenal 🚀
+    Welcome to My Cyber Arsenal 
 </h1>
 
 <p align="center">
@@ -28,7 +28,7 @@ ACCESS GRANTED ✅
 
 ---
 
-## 👾 Who Am I?
+## 😎 Who Am I?
 - 🐉 **Kali Linux Enthusiast & Custom Distro Builder**
 - 🐚 **Bash Scripting Ninja – Automating Everything!**
 - 🔥 **Offensive Security & Ethical Hacking Explorer**
