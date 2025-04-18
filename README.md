@@ -29,7 +29,7 @@ ACCESS GRANTED ✅
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pashamasr01287654800/pashamasr01287654800/refs/heads/main/banerr.gif" alt="Banner GIF">
+  <img src="https://raw.githubusercontent.com/pashamasr01287654800/pashamasr01287654800/refs/heads/main/Banner.gif" alt="Banner GIF">
 </p>
 
 ---
