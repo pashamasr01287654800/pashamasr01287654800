@@ -1,9 +1,9 @@
 <h1 align="center">
-    Welcome to My Cyber Arsenal 
+  Welcome to My Cyber Arsenal 
 </h1>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="Kali Linux Logo" width="200">
+  <img src="https://raw.githubusercontent.com/pashamasr01287654800/pashamasr01287654800/refs/heads/main/Kali-dragon-icon.svg" alt="Kali Linux Logo" width="200">
 </p>
 
 ---
@@ -28,18 +28,26 @@ ACCESS GRANTED ✅
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pashamasr01287654800/pashamasr01287654800/refs/heads/main/banerr.gif" alt="Banner GIF">
+</p>
+
+---
+
 ## 😎 Who Am I?
 - 🐉 **Kali Linux Enthusiast & Custom Distro Builder**
 - 🐚 **Bash Scripting Ninja – Automating Everything!**
 - 🔥 **Offensive Security & Ethical Hacking Explorer**
 - 🎯 **Passionate about Network Intrusion & Web Security**
 
-> **"Mastering the shell is the first step to mastering cybersecurity."**  
+> **"Mastering the shell is the first step to mastering cybersecurity."**
 
 ---
 
 ## 🛠 Tech & Tools:
+
 <p align="center">
+
   <img src="https://img.shields.io/badge/Kali-Linux-1C1C1C?style=for-the-badge&logo=kali-linux">
   <img src="https://img.shields.io/badge/Linux-Kernel-FCC624?style=for-the-badge&logo=linux">
   <img src="https://img.shields.io/badge/Termux-CLI-222222?style=for-the-badge&logo=termux">
@@ -71,11 +79,13 @@ ACCESS GRANTED ✅
   <img src="https://img.shields.io/badge/TTY-ShellControl-222222?style=for-the-badge">
 
   <img src="https://img.shields.io/badge/Foremost-FileRecovery-darkgreen?style=for-the-badge">
+
 </p>
 
 ---
 
 ## 📊 My GitHub Stats:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pashamasr01287654800&show_icons=true&theme=dark&hide_border=true">
 </p>
@@ -87,6 +97,7 @@ ACCESS GRANTED ✅
 ---
 
 ## 🔥 Most Used Languages:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pashamasr01287654800&layout=compact&theme=dark">
 </p>
