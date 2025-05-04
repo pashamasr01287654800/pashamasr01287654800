@@ -29,6 +29,18 @@ ACCESS GRANTED ✅
 ---
 
 <p align="center">
+  <img src="https://github.com/pashamasr01287654800/pashamasr01287654800/blob/main/kali-boot.gif" alt="kali-boot GIF">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/pashamasr01287654800/pashamasr01287654800/blob/main/bash.gif" alt="bash GIF">
+</p>
+
+---
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/pashamasr01287654800/pashamasr01287654800/refs/heads/main/Banner.gif" alt="Banner GIF">
 </p>
 
