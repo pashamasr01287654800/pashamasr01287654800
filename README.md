@@ -71,6 +71,7 @@ ACCESS GRANTED ✅
   <img src="https://img.shields.io/badge/ExploitDB-ExploitsDatabase-darkred?style=for-the-badge">
 
   <img src="https://img.shields.io/badge/Hydra-PasswordCracking-red?style=for-the-badge&logo=apache">
+  <img src="https://img.shields.io/badge/Hashcat-Password%20Recovery-FF9A76?style=for-the-badge">
   <img src="https://img.shields.io/badge/JohnTheRipper-PasswordCracking-green?style=for-the-badge">
   <img src="https://img.shields.io/badge/Mimikatz-CredentialDumping-darkred?style=for-the-badge">
   <img src="https://img.shields.io/badge/Pentesting-RedTeam-critical?style=for-the-badge&logo=hackthebox">
@@ -85,6 +86,10 @@ ACCESS GRANTED ✅
   <img src="https://img.shields.io/badge/TTY-ShellControl-222222?style=for-the-badge">
 
   <img src="https://img.shields.io/badge/Foremost-FileRecovery-darkgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Impacket-AD%20Exploitation-FF6B6B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/NetExec-AD%20Testing-4ECDC4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Kerbrute-Kerberos%20Enum-FFD166?style=for-the-badge">
+  
 
 </p>
 
