@@ -98,22 +98,30 @@ ACCESS GRANTED ✅
 ## 📊 My GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pashamasr01287654800&show_icons=true&theme=dark&hide_border=true">
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pashamasr01287654800&theme=dark">
 </p>
 
 ---
 
-## 🔥 Most Used Languages:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pashamasr01287654800&layout=compact&theme=dark">
-</p>
-
----
-
 ### 🚀 Keep Hacking, Keep Innovating! 🏴‍☠️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
